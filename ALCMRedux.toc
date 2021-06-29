@@ -1,0 +1,9 @@
+## Interface: 20501
+## Author: Neutrinobeam 
+## Version: 1.0
+## Dependencies: AtlasLootClassic
+
+## Title: ALCM|cFFCC99EERedux|r
+## Notes: AtlasLootClassic map module
+
+ALCMRedux.lua
